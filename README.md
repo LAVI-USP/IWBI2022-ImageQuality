@@ -9,9 +9,26 @@ Many works have investigated methods to assess the quality of mammography images
 
 ## Reference:
 
-If you use the codes, we will be very grateful if you refer to this [paper]():
+If you use the codes, we will be very grateful if you refer to this [paper](http://dx.doi.org/10.1117/12.2625745):
 
-> Soon
+Lucas E. Soares, Lucas R. Borges, Bruno Barufaldi, Andrew D. A. Maidment, Marcelo A. C. Vieira, "Using virtual clinical trials to assess objective image quality metrics in the task of microcalcification localization in digital mammography," Proc. SPIE 12286, 16th International Workshop on Breast Imaging (IWBI2022), 1228603 (13 July 2022); https://doi.org/10.1117/12.2625745
+
+```
+@inproceedings{10.1117/12.2625745,
+author = {Lucas E. Soares and Lucas R. Borges and Bruno Barufaldi and Andrew D. A. Maidment and Marcelo A. C. Vieira},
+title = {{Using virtual clinical trials to assess objective image quality metrics in the task of microcalcification localization in digital mammography}},
+volume = {12286},
+booktitle = {16th International Workshop on Breast Imaging (IWBI2022)},
+editor = {Hilde Bosmans and Nicholas Marshall and Chantal Van Ongeval},
+organization = {International Society for Optics and Photonics},
+publisher = {SPIE},
+pages = {1228603},
+keywords = {Digital mammography, Image quality assessment, Virtual clinical trials, Human observer study},
+year = {2022},
+doi = {10.1117/12.2625745},
+URL = {https://doi.org/10.1117/12.2625745}
+}
+```
 
 ## Acknowledgments:
 
